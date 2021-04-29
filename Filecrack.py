@@ -133,7 +133,7 @@ def log_menu():
 
 
 def log_menu_s():
-    s = raw_input(' \x1b[1;97m\xe2\x95\xb0\xe2\x94\x80Jutt\xe2\x9e\xa4 ')
+    s = raw_input(' \x1b[1;97m\xe2\x95\xb0\xe2\x94\x80Mr-Robot\xe2\x9e\xa4 ')
     if s == '1':
         log_fb()
     elif s == '2':
